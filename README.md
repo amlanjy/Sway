@@ -1,1 +1,1 @@
-Personal Laptop Sway config
+# Personal sway script, may break your system
