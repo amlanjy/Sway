@@ -1,0 +1,1 @@
+Personal Laptop Sway config
